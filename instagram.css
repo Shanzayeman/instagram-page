@@ -1,0 +1,423 @@
+body{
+    margin: 0px;
+}
+#main{
+  position: relative;
+}
+#one{
+    border: 1px solid white;
+    width: 220px;
+    height: 583px;
+    border-right: 0.5px solid rgb(207, 205, 205);
+    position: fixed;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid white;
+    overflow: auto;
+    width: 220px;
+    height: 583px;
+}
+li a{
+    display: block;
+    padding: 18px 36px;
+    color: black;
+    border-bottom:1px solid white;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+li:hover{
+    background-color: rgb(194, 190, 190);
+    border-radius: 5px;
+}
+#two{
+    color: black;
+}
+#img1{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+#second{
+    border: 1px solid white;
+    width: 620px;
+    height: 600px;
+    position: relative;
+    top: 0px;
+    left: 220px;
+}
+#dary{
+    position: absolute;
+}
+#img2{
+    border-radius: 50%;
+    border: 3px solid white;
+    outline: 3px solid rgb(214, 33, 78);
+    position: absolute;
+    top: 30px;
+    left: 40px;
+}
+#rouf{
+    position: absolute;
+    top: 80px;
+    left: 50px;
+    color: black;
+    font-size: smaller;
+}
+#img3{
+    border-radius: 50%;
+    border: 3px solid white;
+    outline: 3px solid rgb(214, 33, 78);
+    position: absolute;
+    top: 30px;
+    left: 110px;
+}
+#saleem{
+    position: absolute;
+    top: 80px;
+    left: 116px;
+    color: black; 
+    font-size: smaller;
+}
+#img4{
+    border-radius: 50%;
+    border: 3px solid white;
+    outline: 3px solid rgb(214, 33, 78);
+    position: absolute;
+    top: 32px;
+    left: 180px;
+}
+#heer{
+    position: absolute;
+    top: 80px;
+    left: 189px;
+    color: black; 
+    font-size: smaller;
+}
+#img5{
+    border-radius: 50%;
+    border: 3px solid white;
+    outline: 3px solid rgb(214, 33, 78);
+    position: absolute;
+    top: 32px;
+    left: 250px;
+}
+#US{
+    position: absolute;
+    top: 80px;
+    left: 255px;
+    color: black; 
+    font-size: smaller;
+}
+#img6{
+    border-radius: 50%;
+    border: 3px solid white;
+    outline: 3px solid rgb(214, 33, 78);
+    position: absolute;
+    top: 32px;
+    left: 319px;
+}
+#tyl{
+    position: absolute;
+    top: 80px;
+    left: 328px;
+    color: black; 
+    font-size: smaller; 
+}
+#img7{
+    border-radius: 50%;
+    border: 3px solid white;
+    outline: 3px solid rgb(214, 33, 78);
+    position: absolute;
+    top: 32px;
+    left: 389px;
+}
+#leig{
+    position: absolute;
+    top: 80px;
+    left: 393px;
+    color: black; 
+    font-size: smaller; 
+}
+#img8{
+    border-radius: 50%;
+    border: 3px solid white;
+    outline: 3px solid rgb(214, 33, 78);
+    position: absolute;
+    top: 32px;
+    left: 459px;
+}
+#beaut{
+    position: absolute;
+    top: 80px;
+    left: 463px;
+    color: black; 
+    font-size: smaller;
+}
+#img9{
+    border-radius: 50%;
+    border: 3px solid white;
+    outline: 3px solid rgb(214, 33, 78);
+    position: absolute;
+    top: 32px;
+    left: 532px;
+}
+#gom{
+    position: absolute;
+    top: 80px;
+    left: 533px;
+    color: black; 
+    font-size: smaller; 
+}
+#posting{
+    position: relative;
+}
+#img11{
+    border-radius: 50%;
+    border: 3px solid white;
+    outline: 3px solid rgb(214, 33, 78);
+    position: absolute;
+    top: 140px;
+    left: 120px;
+    object-fit: cover;
+}
+#rouff{
+    position: absolute;
+    top: 129px;
+    left: 164px;
+    color: black;
+    font-size: smaller;
+}
+#rouff2{
+    position: absolute;
+    top: 149px;
+    left: 164px;
+    color: rgb(88, 87, 87);
+    font-size: smaller; 
+}
+#one1{
+    border: 1px solid rgb(133, 129, 129);
+    border-radius: 3px;
+    position: absolute;
+    top: 190px;
+    left: 124px;
+}
+#ka{
+    color: rgb(48, 46, 46);
+    position: absolute;
+    top: 150px;
+    left: 495px;
+}
+#heart1{
+    color: black;
+    position: absolute;
+    top: 557px;
+    left: 126px;
+}
+#heart1:hover{
+    color: rgb(158, 157, 157);
+}
+#com1{
+    color: black;
+    position: absolute;
+    top: 557px;
+    left: 154px;
+}
+#com1:hover{
+    color: rgb(158, 157, 157);
+}
+#share1{
+    color: black;
+    position: absolute;
+    top: 557px;
+    left: 179px;
+}
+#share1:hover{
+    color: rgb(158, 157, 157);
+}
+#save1{
+    color: black;
+    position: absolute;
+    top: 558px;
+    left: 499px;
+}
+#save1:hover{
+    color: rgb(158, 157, 157);
+}
+#lik1{
+    color: black;
+    position: absolute;
+    top: 557px;
+    left: 126px; 
+}
+#sect1{
+    color: black;
+    position: absolute;
+    top: 585px;
+    left: 126px; 
+}
+#tion1{
+    color: rgb(71, 69, 69);
+    position: absolute;
+    top: 609px;
+    left: 126px;
+    font-size: smaller; 
+}
+#day1{
+    color: rgb(71, 69, 69);
+    position: absolute;
+    top: 629px;
+    left: 126px;
+    font-size: smaller; 
+}
+#suggest{
+    position: relative;
+    width: 400px;
+    height: 500px;
+    border: 1px solid white;
+    left: 600px;
+}
+#me{
+    border-radius: 50%;
+    position: absolute;
+    top: 40px;
+    left: 50px;
+    border: 1px solid rgb(136, 136, 136);
+}
+#pet1{
+    color: black;
+    position: absolute;
+    top: 30px;
+    left: 99px;
+    font-size: small;
+}
+#pet2{
+    color: rgb(160, 158, 158);
+    position: absolute;
+    top: 47px;
+    left: 99px;
+    font-size: smaller;
+}
+#link1{
+    position: absolute;
+    top: 35px;
+    left: 309px;
+    text-decoration: none;
+    font-size: small;
+    color: rgb(21, 21, 223);
+}
+#how{
+    position: absolute;
+    top: 87px;
+    left: 51px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#many{
+    text-decoration: none;
+    color: rgb(37, 37, 37);
+    position: absolute;
+    top: 97px;
+    left: 311px;
+}
+#many:hover{
+    color: rgb(158, 156, 156);
+}
+#oth{
+    border-radius: 50%;
+    position: absolute;
+    top: 140px;
+    left: 50px;
+    border: 1px solid rgb(136, 136, 136);
+}
+#ays1{
+    color: black;
+    position: absolute;
+    top: 130px;
+    left: 99px;
+    font-size: small;
+}
+#oo2{
+    color: rgb(104, 100, 100);
+    position: absolute;
+    top: 147px;
+    left: 99px;
+    font-size: smaller; 
+}
+#link2{
+    position: absolute;
+    top: 135px;
+    left: 309px;
+    text-decoration: none;
+    font-size: small;
+    color: rgb(21, 21, 223);
+}
+#am{
+    border-radius: 50%;
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    border: 1px solid rgb(136, 136, 136);
+}
+#ay1{
+    color: black;
+    position: absolute;
+    top: 190px;
+    left: 99px;
+    font-size: small;
+}
+#o2{
+    color: rgb(104, 100, 100);
+    position: absolute;
+    top: 207px;
+    left: 99px;
+    font-size: smaller; 
+}
+#link3{
+    position: absolute;
+    top: 195px;
+    left: 309px;
+    text-decoration: none;
+    font-size: small;
+    color: rgb(21, 21, 223);
+}
+#de{
+    border-radius: 50%;
+    position: absolute;
+    top: 260px;
+    left: 50px;
+    border: 1px solid rgb(136, 136, 136);
+}
+#men{
+    color: black;
+    position: absolute;
+    top: 250px;
+    left: 99px;
+    font-size: small;
+}
+#o3{
+    color: rgb(104, 100, 100);
+    position: absolute;
+    top: 267px;
+    left: 99px;
+    font-size: smaller;  
+}
+#link4{
+    position: absolute;
+    top: 255px;
+    left: 309px;
+    text-decoration: none;
+    font-size: small;
+    color: rgb(21, 21, 223);
+}
+#baby{
+    position: absolute;
+    top: 320px;
+    left: 70px;
+    font-size: smaller;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(206, 201, 201);
+}
